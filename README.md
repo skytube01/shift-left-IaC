@@ -1,6 +1,6 @@
 SLS demo with HiSol on 19th Aug 2022!! DevSecOps is mandatory!!
 
-# Orca Shift Left IaC Scan Guide
+# Orca Shift Left IaC Scan Guide.
 
 [GitHub Action](https://github.com/features/actions)
 for [Orca Shift Left Security](https://orca.security/solutions/shift-left-security/)
